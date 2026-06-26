@@ -1,0 +1,15 @@
+# Ignore internal data and images anywhere in course3
+**/data/
+**/*.mat
+**/*.csv
+**/*.txt
+**/*.png
+**/*.jpg
+
+# Ignore system and checkpoint logs
+.DS_Store
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+
+
